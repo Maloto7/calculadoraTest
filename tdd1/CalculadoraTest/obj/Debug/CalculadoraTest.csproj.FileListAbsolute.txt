@@ -1,0 +1,9 @@
+c:\users\diplomado\documents\visual studio 2015\Projects\tdd1\CalculadoraTest\bin\Debug\CalculadoraTest.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\tdd1\CalculadoraTest\bin\Debug\CalculadoraTest.pdb
+c:\users\diplomado\documents\visual studio 2015\Projects\tdd1\CalculadoraTest\bin\Debug\CalculadoraTDD.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\tdd1\CalculadoraTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\tdd1\CalculadoraTest\bin\Debug\CalculadoraTDD.pdb
+c:\users\diplomado\documents\visual studio 2015\Projects\tdd1\CalculadoraTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\tdd1\CalculadoraTest\obj\Debug\CalculadoraTest.csprojResolveAssemblyReference.cache
+c:\users\diplomado\documents\visual studio 2015\Projects\tdd1\CalculadoraTest\obj\Debug\CalculadoraTest.dll
+c:\users\diplomado\documents\visual studio 2015\Projects\tdd1\CalculadoraTest\obj\Debug\CalculadoraTest.pdb
